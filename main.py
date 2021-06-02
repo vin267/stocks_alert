@@ -3,9 +3,9 @@ import time
 from yahoo_fin import stock_info as si
 
 # global variables
-# api_key = 'OCN9UXR7UQPVI3TZ'
-bot_token = '1889572236:AAHbRsYeVZge5axBj9by5xrXx-Aw9pvDklI'
-chat_id = '1886817846'
+# api_key = 'your_api_key'
+bot_token = 'your_bot_token'
+chat_id = 'telegram_chat_id'
 threshold_buy = {
     'ACB': 10,
     'DSS': 6,
